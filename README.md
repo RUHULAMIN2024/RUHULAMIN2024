@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WqMpsn9c8JsbbIxIRr50ug.gif)
+![logo](https://www.weblineindia.com/wp-content/uploads/2019/01/react-native-build-mobile-apps-with-increased-developer-productivity.gif)
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
