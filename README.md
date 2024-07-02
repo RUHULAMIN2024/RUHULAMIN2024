@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://developer-ruhul-amin.vercel.app/#projects](https://developer-ruhul-amin.vercel.app/#projects)
+- 👨‍💻 All of my projects are available at [https://developer-ruhul-amin.vercel.app](https://developer-ruhul-amin.vercel.app)
 
 - 📫 How to reach me **ruhulamin15jun1999@gmail.com**
 
