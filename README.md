@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQGX90E-K3D4wA/profile-displaybackgroundimage-shrink_350_1400/0/1719903521288?e=1725494400&v=beta&t=-1hXGBBFfsQeLw2fiy44Kpg9xluqxuUNst7g7_nH1tk)
+![logo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WqMpsn9c8JsbbIxIRr50ug.gif)
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
