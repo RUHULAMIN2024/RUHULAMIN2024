@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/3SNhGTK/react.gif)
+![logo](https://i.ibb.co/yBWyNcy/developer.png)
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
