@@ -2,6 +2,9 @@
 <img src="https://raw.githubusercontent.com/RUHULAMIN2024/RUHULAMIN2024/main/images/ruhulamindev.png" />
 </a>
 
+<h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -45,16 +48,22 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="200" alt="Ruhul Amin's Dev Card"/></a>
+<a href="https://app.daily.dev/mir"><img align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="300" alt="Ruhul Amin's Dev scrin"/></a>
 </div>
 
-### 🔭 I’m working - In self project.
+### 🔭 I’m working - on redux.
 
 ### 🌱 I’m exploring - Next.JS.
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
 ### 🤔 I’m trying - To help people learn web development.
+
+### 👨‍💻 All of my projects are available at [https://developer-ruhul-amin.vercel.app](https://developer-ruhul-amin.vercel.app)
+
+### 📫 How to reach me **ruhulamin15jun1999@gmail.com**
+
+### 📄 Know about my experiences [https://drive.google.com/file/d/1-4KpWv6OswSPfi59-TlF1rCHQzWEFZES/view?usp=sharing](https://drive.google.com/file/d/1-4KpWv6OswSPfi59-TlF1rCHQzWEFZES/view?usp=sharing)
 
 ### ⚡ Fun fact - .
 
