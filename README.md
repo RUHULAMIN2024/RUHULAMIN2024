@@ -45,7 +45,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/image/ruhulamindev.png" width="200" alt="Ruhul Amin's Dev Card"/></a>
+<a href="https://app.daily.dev/mir"><img align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="200" alt="Ruhul Amin's Dev Card"/></a>
 </div>
 
 ### 🔭 I’m working - In self project.
