@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h2 align="center">A passionate web developer from Bangladesh</h2>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -59,9 +59,9 @@
 
 ### 🤔 I’m trying - To help people learn web development.
 
-### 👨‍💻 All of my projects are available at [https://developer-ruhul-amin.vercel.app](https://developer-ruhul-amin.vercel.app)
-
 ### 📫 How to reach me **ruhulamin15jun1999@gmail.com**
+
+### 👨‍💻 All of my projects are available at [https://developer-ruhul-amin.vercel.app](https://developer-ruhul-amin.vercel.app)
 
 ### 📄 Know about my experiences [https://drive.google.com/file/d/1-4KpWv6OswSPfi59-TlF1rCHQzWEFZES/view?usp=sharing](https://drive.google.com/file/d/1-4KpWv6OswSPfi59-TlF1rCHQzWEFZES/view?usp=sharing)
 
