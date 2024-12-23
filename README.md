@@ -46,17 +46,17 @@
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/react.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/redux.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Nextjs.png"/>
-<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/firebase.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/node.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/express.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/firebase.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/vs-code.png"/>
-<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Github.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Git.png"/>
-<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Photoshop.png"/>
+<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Github.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Figma.png"/>
+<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Photoshop.png"/>
 </p><br/>
 
 ## :eyes: Current overview
