@@ -16,7 +16,11 @@
 
 <br />
 
-[<a align="center"><img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ruhulamin2024/)[<img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ruhulamin15jun1999)[<img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Twitter.png"> </a>](https://twitter.com/ruhulamin_2024)
+[<p align="center"><img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ruhulamin2024/)
+[<img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ruhulamin15jun1999)
+[<img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Twitter.png">](https://twitter.com/ruhulamin_2024)
+
+</p>
 
 <br />
 
@@ -63,7 +67,7 @@
 
 ### 👨‍💻 All of my projects are available at [https://developer-ruhul-amin.vercel.app](https://developer-ruhul-amin.vercel.app)
 
-### 📄 Know about my experiences [https://drive.google.com/file/d/1-4KpWv6OswSPfi59-TlF1rCHQzWEFZES/view?usp=sharing](https://drive.google.com/file/d/1-4KpWv6OswSPfi59-TlF1rCHQzWEFZES/view?usp=sharing)
+### 📄 Know about my experiences [https://drive.google.com/file/d/1TFQ_Zf37CY3oLqvnmHd6k8fLZmLQsU5G/view?usp=drive_link](https://drive.google.com/file/d/1TFQ_Zf37CY3oLqvnmHd6k8fLZmLQsU5G/view?usp=drive_link)
 
 ### ⚡ Fun fact - .
 
