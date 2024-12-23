@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/ruhulamin15jun1999/">
+<a href="https://www.facebook.com/ruhulamin2024/">
 <img src="https://raw.githubusercontent.com/RUHULAMIN2024/RUHULAMIN2024/main/images/ruhulamindev.png" />
 </a>
 
@@ -16,7 +16,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ruhulamin2024/)[<img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ruhulamin15jun1999)[<img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/ruhulamin_2024)
+[<a align="center"><img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/ruhulamin2024/)[<img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Facebook.png">](https://www.facebook.com/ruhulamin15jun1999)[<img height="75" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Twitter.png"> </a>](https://twitter.com/ruhulamin_2024)
 
 <br />
 
