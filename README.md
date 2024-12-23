@@ -38,7 +38,7 @@
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/css.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/JavaScript.png"/>
-<img width="60" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Typescript.png"/>
+<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Typescript.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Bootsrap.png"/>
 </p>
@@ -52,10 +52,11 @@
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/mongo.png"/>
 </p>
 <p align="center">
+<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/vs-code.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Github.png"/>
-<img width="60" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Git.png"/>
-<img width="60" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Photoshop.png"/>
-<img width="60" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Figma.png"/>
+<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Git.png"/>
+<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Photoshop.png"/>
+<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Figma.png"/>
 </p><br/>
 
 ## :eyes: Current overview
