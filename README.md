@@ -38,14 +38,10 @@
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/css.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/python.png"/>
-<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/c.png"/>
-<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/cpp.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/react.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/sass.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/firebase.png"/>
@@ -76,7 +72,7 @@
 
 ### 📄 Know about my experiences [https://drive.google.com/file/d/1TFQ_Zf37CY3oLqvnmHd6k8fLZmLQsU5G/view?usp=drive_link](https://drive.google.com/file/d/1TFQ_Zf37CY3oLqvnmHd6k8fLZmLQsU5G/view?usp=drive_link)
 
-### ⚡ Fun fact - .
+### ⚡ Fun fact - 🖥️ My favorite programming language is "Googling."
 
 <br />
 
