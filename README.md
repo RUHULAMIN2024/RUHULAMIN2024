@@ -62,7 +62,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="300" alt="Ruhul Amin's Dev scrin"/></a>
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/devScreen.gif" width="300" alt="Ruhul Amin's Dev screen"/></a>
 </div>
 
 ### 🔭 I’m working - on redux.
