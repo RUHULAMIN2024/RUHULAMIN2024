@@ -65,13 +65,13 @@
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/devScreen.gif" width="300" alt="Ruhul Amin's Dev screen"/></a>
 </div>
 
-### 🔭 I’m working - on redux.
+### 🔭 I’m working in my own projects.
 
-### 🌱 I’m exploring - Next.JS.
+### 🌱 I’m exploring Next.JS.
 
-### 👯 I’m looking - To collaborate on open source projects.
+### 👯 I’m looking To collaborate on open source projects.
 
-### 🤔 I’m trying - To help people learn web development.
+### 🤔 I’m trying To help people learn web development.
 
 ### 📫 How to reach me **ruhulamin15jun1999@gmail.com**
 
