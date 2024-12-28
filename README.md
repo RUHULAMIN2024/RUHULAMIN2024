@@ -67,7 +67,7 @@
 
 ### 🔭 I’m working in my own projects.
 
-### 🌱 I’m exploring Next.JS.
+### 🌱 I’m exploring Redux & Next.JS.
 
 ### 👯 I’m looking To collaborate on open source projects.
 
