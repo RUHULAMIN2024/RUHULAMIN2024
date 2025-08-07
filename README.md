@@ -65,9 +65,9 @@
 <a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/devScreen.gif" width="300" alt="Ruhul Amin's Dev screen"/></a>
 </div>
 
-### 🔭 I’m working in my own projects.
+### 🔭 Currently, I’m working as a Web Developer at bPlugins, specializing in WordPress plugin development.
 
-### 🌱 I’m exploring Redux & Next.JS.
+### 🌱 I’m currently exploring WordPress development, with a focus on building custom themes and plugins.
 
 ### 👯 I’m looking To collaborate on open source projects.
 
