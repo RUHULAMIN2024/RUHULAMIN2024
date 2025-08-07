@@ -69,7 +69,7 @@
 
 ### 🌱 I’m currently exploring WordPress development, with a focus on building custom themes and plugins.
 
-### 👯 I’m looking To collaborate on open source projects.
+<!-- ### 👯 I’m looking To collaborate on open source projects. -->
 
 ### 🤔 I’m trying To help people learn web development.
 
