@@ -40,7 +40,7 @@
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/JavaScript.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Typescript.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/tailwind.png"/>
-  <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Bootsrap.png"/>
+  <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Bootstrap.png"/>
   
 </p>
 <p align="center">
