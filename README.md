@@ -13,7 +13,6 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ruhulamin2024&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&date_format=M%20j%5B,%20Y%5D&v=1" />
 </p>
-
 ---
 
 ## :mailbox: Reach me out
@@ -45,12 +44,16 @@
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/redux.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/node.png"/>
 </p>
-
-
 <p align="center">
+  <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/react.png"/>
+  <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/redux.png"/>
+  <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/node.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/express.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/mongo.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/firebase.png"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Nextjs.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/vs-code.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Git.png"/>
@@ -63,11 +66,11 @@
 
 ## :eyes: Current Overview
 
-<div align="left">
+<div align="right">
   <a href="https://app.daily.dev/ruhulamin">
     <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/devScreen.gif" width="300" alt="Ruhul Amin's Dev screen"/>
   </a>
-
+</div>
 
 - 🔭 Currently working as a **Web Developer** at **bPlugins**, specializing in WordPress plugin development.  
 - 🌱 Exploring WordPress development, focusing on building custom themes and plugins.  
@@ -78,7 +81,7 @@
 - ⚡ Fun fact → 🖥️ My favorite programming language is **"Googling."**  
 
 ---
-</div>
+
 ## :book: My recent blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
