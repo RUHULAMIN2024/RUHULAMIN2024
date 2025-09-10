@@ -68,22 +68,25 @@
 
 <table>
   <tr>
-    <td width="70%" valign="top">
-- 🔭 Currently working as a **Web Developer** at **bPlugins**, specializing in WordPress plugin development.  
-- 🌱 Exploring WordPress development, focusing on building custom themes and plugins.  
-- 🤔 Trying to help people learn web development.  
-- 📫 Reach me at **ruhulamin15jun1999@gmail.com**  
-- 👨‍💻 All of my projects → [Portfolio Website](https://developer-ruhul-amin.vercel.app)  
-- 📄 Resume → [View Resume](https://drive.google.com/file/d/1TFQ_Zf37CY3oLqvnmHd6k8fLZmLQsU5G/view?usp=drive_link)  
-- ⚡ Fun fact → 🖥️ My favorite programming language is **"Googling."**  
+    <td width="60%" valign="top">
+      <ul>
+        <li>🔭 Currently working as a <b>Web Developer</b> at <b>bPlugins</b>, specializing in WordPress plugin development.</li>
+        <li>🌱 Exploring WordPress development, focusing on building custom themes and plugins.</li>
+        <li>🤔 Trying to help people learn web development.</li>
+        <li>📫 Reach me at <b>ruhulamin15jun1999@gmail.com</b></li>
+        <li>👨‍💻 All of my projects → <a href="https://developer-ruhul-amin.vercel.app">Portfolio Website</a></li>
+        <li>📄 Resume → <a href="https://drive.google.com/file/d/1TFQ_Zf37CY3oLqvnmHd6k8fLZmLQsU5G/view?usp=drive_link">View Resume</a></li>
+        <li>⚡ Fun fact → 🖥️ My favorite programming language is <b>"Googling."</b></li>
+      </ul>
     </td>
-    <td width="30%" align="center" valign="top">
+    <td width="40%" align="center" valign="top">
       <a href="https://app.daily.dev/ruhulamin">
         <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/devScreen.gif" width="300" alt="Ruhul Amin's Dev screen"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
