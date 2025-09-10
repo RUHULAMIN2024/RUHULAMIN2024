@@ -11,6 +11,21 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=RUHULAMIN2024&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
+<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ruhulamin2024&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF&date_format=M%20j%5B,%20Y%5D&v=1" />
+</p>
+<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ruhulamin2024&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF00FF&sideLabels=00FFFF&currStreakNum=FF00FF&ring=FF00FF&currStreakLabel=FF00FF&sideNums=00FFFF&date_format=M%20j%5B,%20Y%5D&v=2" />
+</p>
+<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ruhulamin2024&theme=radical&hide_border=true&background=000000&stroke=000000&fire=F8D210&sideLabels=6A0DAD&currStreakNum=FF5733&ring=6A0DAD&currStreakLabel=F8D210&sideNums=FF5733&date_format=M%20j%5B,%20Y%5D&v=2" />
+</p>
+<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ruhulamin2024&theme=github-dark&hide_border=true&background=0D1117&stroke=0D1117&fire=2ECC71&sideLabels=1ABC9C&currStreakNum=2ECC71&ring=2ECC71&currStreakLabel=2ECC71&sideNums=1ABC9C&date_format=M%20j%5B,%20Y%5D&v=2" />
+</p>
+<p align="center">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ruhulamin2024&theme=highcontrast&hide_border=true&background=0D1117&stroke=0D1117&fire=FF0000&sideLabels=FF6600&currStreakNum=FF0000&ring=FF6600&currStreakLabel=FF0000&sideNums=FF6600&date_format=M%20j%5B,%20Y%5D&v=2" />
+</p>
 
 ## :mailbox: Reach me out
 
