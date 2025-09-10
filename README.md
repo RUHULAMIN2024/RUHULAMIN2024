@@ -107,8 +107,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ruhulamin2024&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin2024&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin2024&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -137,7 +136,8 @@
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/JavaScript.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Typescript.png"/>
   <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/tailwind.png"/>
-  <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Bootstrap.png"/>
+  <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/icons/Bootsrap.png"/>
+
 </p>
 
 <p align="center">
@@ -162,8 +162,8 @@
 
 ## :eyes: Current Overview
 
-<p align="center">
-  <a href="https://app.daily.dev/mir">
+<p align="right">
+  <a href="https://app.daily.dev/ruhulamin">
     <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/devScreen.gif" width="300" alt="Ruhul Amin's Dev screen"/>
   </a>
 </p>
