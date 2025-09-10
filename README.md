@@ -63,13 +63,12 @@
 
 ---
 
-## :eyes: Current Overview
 
 ## :eyes: Current Overview
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
-    
+<table>
+  <tr>
+    <td width="70%" valign="top">
 - 🔭 Currently working as a **Web Developer** at **bPlugins**, specializing in WordPress plugin development.  
 - 🌱 Exploring WordPress development, focusing on building custom themes and plugins.  
 - 🤔 Trying to help people learn web development.  
@@ -77,15 +76,15 @@
 - 👨‍💻 All of my projects → [Portfolio Website](https://developer-ruhul-amin.vercel.app)  
 - 📄 Resume → [View Resume](https://drive.google.com/file/d/1TFQ_Zf37CY3oLqvnmHd6k8fLZmLQsU5G/view?usp=drive_link)  
 - ⚡ Fun fact → 🖥️ My favorite programming language is **"Googling."**  
+    </td>
+    <td width="30%" align="center" valign="top">
+      <a href="https://app.daily.dev/ruhulamin">
+        <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/devScreen.gif" width="300" alt="Ruhul Amin's Dev screen"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  </div>
-
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <a href="https://app.daily.dev/ruhulamin">
-      <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/devScreen.gif" width="250" alt="Ruhul Amin's Dev screen"/>
-    </a>
-  </div>
-</div>
 
 
 
