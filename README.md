@@ -68,7 +68,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="70%" valign="top">
       <ul>
         <li>🔭 Currently working as a <b>Web Developer</b> at <b>bPlugins</b>, specializing in WordPress plugin development.</li>
         <li>🌱 Exploring WordPress development, focusing on building custom themes and plugins.</li>
@@ -79,7 +79,7 @@
         <li>⚡ Fun fact → 🖥️ My favorite programming language is <b>"Googling."</b></li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="top">
+    <td width="30%" align="center" valign="top">
       <a href="https://app.daily.dev/ruhulamin">
         <img src="https://github.com/RUHULAMIN2024/RUHULAMIN2024/blob/main/images/devScreen.gif" width="300" alt="Ruhul Amin's Dev screen"/>
       </a>
